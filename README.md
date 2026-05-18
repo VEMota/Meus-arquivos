@@ -15,7 +15,7 @@ Bem-vindo
 
 ## 🔗 Links Úteis
 * [Acesse meu GitHub Pages](https://https://github.com/VEMota/meu-portfolio/)
-* [Meu Perfil no LinkedIn]((https://www.linkedin.com/in/vinicyus-eduardo-a839b440b/))
+* [Meu Perfil no LinkedIn](https://www.linkedin.com/in/vinicyus-eduardo-a839b440b/)
 
 ---
 *Repositório criado como parte do Desafio de Entrega Intermediária.*
