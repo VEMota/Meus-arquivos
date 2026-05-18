@@ -14,7 +14,7 @@ Bem-vindo
 * Markdown (Documentação)
 
 ## 🔗 Links Úteis
-* [Acesse meu GitHub Pages](https://https://github.com/VEMota/meu-portfolio/)
+* [Acesse meu GitHub Pages](https://VEMota.github.io/meu-portfolio/)
 * [Meu Perfil no LinkedIn](https://www.linkedin.com/in/vinicyus-eduardo-a839b440b/)
 
 ---
